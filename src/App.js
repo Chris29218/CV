@@ -14,7 +14,7 @@ class App extends Component {
       avatar: {img},
       name: 'Abhishek Bhattacharya',
       profession: 'FullStack Developer',
-      bio: 'Full Stack Developer at @CTS, Ex-TA @CN, Football Lover⚽ & Geek.',
+      bio: 'Full Stack Developer at @CTS, Ex-TA @CN, Football Lover⚽ & Geek💻.',
       address: 'Kolkata, India.',
       social: [
         {name: 'instagram', url: 'https://instagram.com/skyintech'},
