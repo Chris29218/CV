@@ -1,5 +1,5 @@
 {
-  "name": "gresumereact",
+  "name": "resumecvreact",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -24,17 +24,13 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gndx/gresume-react.git"
+    "url": ""
   },
   "keywords": [
-    "Gresume",
+    "CV",
     "react",
     "jsx"
   ],
-  "author": "Oscar Barajas <oscar@dragons.mx>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/gndx/gresume-react/issues"
-  },
-  "homepage": "https://github.com/gndx/gresume-react#readme"
+  "author": "Sky",
+  "license": "MIT"
 }
